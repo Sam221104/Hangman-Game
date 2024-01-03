@@ -7,6 +7,8 @@ The user interacts by entering a letter in the provided *TextField* and pressing
 The program processes the user's guess, checking if it matches any letters in the hidden word.
 If correct, the corresponding letters are revealed, and the Hangman figure remains unchanged.
 If incorrect, a part of the Hangman figure is gradually drawn, and the remaining guesses decrease.
+### Visual Appeal ###
+The game interface is visually appealing, with a gradient background and well-designed Hangman components.
 ![image](https://github.com/Sam221104/Hangman-Game/assets/112628971/7322507f-86b0-4162-9a38-e4ecb3c173fb)
 
 ### Visual Feedback ###
@@ -25,8 +27,8 @@ If the user exhausts the allowed number of incorrect guesses, a game over messag
 Users have the option to reset the game by clicking the *Reset* button.
 This initializes a new word, resets the Hangman figure, and allows for a new round of the game.
 ![image](https://github.com/Sam221104/Hangman-Game/assets/112628971/adf2debd-3cba-4ee8-894e-a92965e7f009)
-### Visual Appeal ###
-The game interface is visually appealing, with a gradient background and well-designed Hangman components.
+
 ### Outcome Display ###
 The final outcome (win or lose) is displayed on the interface.
 The user can see whether they successfully guessed the word or if the Hangman figure was completed.
+![image](https://github.com/Sam221104/Hangman-Game/assets/112628971/3d7e71be-ce07-4cb8-b7ef-02b6e1ae1a0e)
