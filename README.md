@@ -13,8 +13,8 @@ The game interface is visually appealing, with a gradient background and well-de
 
 ### Visual Feedback ###
 The Hangman figure includes a head, torso, arms, and legs. Each incorrect guess reveals a new part of the figure.
-![image](https://github.com/Sam221104/Hangman-Game/assets/112628971/558074b3-4842-4db7-8f7e-14711bf3d802)
-![image](https://github.com/Sam221104/Hangman-Game/assets/112628971/ff0c29c6-34a2-4851-b96d-eb4358101ae2)
+<img src="https://github.com/Sam221104/Hangman-Game/assets/112628971/558074b3-4842-4db7-8f7e-14711bf3d802" width="650">
+<img src="https://github.com/Sam221104/Hangman-Game/assets/112628971/ff0c29c6-34a2-4851-b96d-eb4358101ae2" width="650">
 
 ### Winning the Game ###
 If the user correctly guesses all the letters in the word, a congratulatory message is displayed.
