@@ -18,17 +18,16 @@ The Hangman figure includes a head, torso, arms, and legs. Each incorrect guess 
 
 ### Winning the Game ###
 If the user correctly guesses all the letters in the word, a congratulatory message is displayed.
-![image](https://github.com/Sam221104/Hangman-Game/assets/112628971/272b2fa2-6889-4866-b0d7-4f46024d4892)
-
+<img src="https://github.com/Sam221104/Hangman-Game/assets/112628971/272b2fa2-6889-4866-b0d7-4f46024d4892" width="650">
 ### Losing the Game ###
 If the user exhausts the allowed number of incorrect guesses, a game over message is displayed along with the correct word.
-![image](https://github.com/Sam221104/Hangman-Game/assets/112628971/96902b00-66ee-4743-a4ed-dea7589210f7)
+<img src="https://github.com/Sam221104/Hangman-Game/assets/112628971/96902b00-66ee-4743-a4ed-dea7589210f7" width="650">
 ### Resetting the Game ###
 Users have the option to reset the game by clicking the *Reset* button.
 This initializes a new word, resets the Hangman figure, and allows for a new round of the game.
-![image](https://github.com/Sam221104/Hangman-Game/assets/112628971/adf2debd-3cba-4ee8-894e-a92965e7f009)
-
+<img src="https://github.com/Sam221104/Hangman-Game/assets/112628971/adf2debd-3cba-4ee8-894e-a92965e7f009" width="650">
 ### Outcome Display ###
 The final outcome (win or lose) is displayed on the interface.
 The user can see whether they successfully guessed the word or if the Hangman figure was completed.
-![image](https://github.com/Sam221104/Hangman-Game/assets/112628971/3d7e71be-ce07-4cb8-b7ef-02b6e1ae1a0e)
+<img src="https://github.com/Sam221104/Hangman-Game/assets/112628971/3d7e71be-ce07-4cb8-b7ef-02b6e1ae1a0e" width="650">
+
