@@ -9,7 +9,7 @@ If correct, the corresponding letters are revealed, and the Hangman figure remai
 If incorrect, a part of the Hangman figure is gradually drawn, and the remaining guesses decrease.
 ### Visual Appeal ###
 The game interface is visually appealing, with a gradient background and well-designed Hangman components.
-<img src="https://github.com/Sam221104/Hangman-Game/assets/112628971/7322507f-86b0-4162-9a38-e4ecb3c173fb" width="200">
+<img src="https://github.com/Sam221104/Hangman-Game/assets/112628971/7322507f-86b0-4162-9a38-e4ecb3c173fb" width="600">
 
 ### Visual Feedback ###
 The Hangman figure includes a head, torso, arms, and legs. Each incorrect guess reveals a new part of the figure.
