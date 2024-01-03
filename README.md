@@ -26,8 +26,7 @@ If the user exhausts the allowed number of incorrect guesses, a game over messag
 Users have the option to reset the game by clicking the *Reset* button.
 This initializes a new word, resets the Hangman figure, and allows for a new round of the game.
 <img src="https://github.com/Sam221104/Hangman-Game/assets/112628971/adf2debd-3cba-4ee8-894e-a92965e7f009" width="850">
-### Outcome Display ###
+Markup : <kbd>⇥</kbd>### Outcome Display ###
 The final outcome (win or lose) is displayed on the interface.
 The user can see whether they successfully guessed the word or if the Hangman figure was completed.
-<img src="https://github.com/Sam221104/Hangman-Game/assets/112628971/3d7e71be-ce07-4cb8-b7ef-02b6e1ae1a0e" width="950">
-
+<img src="https://github.com/Sam221104/Hangman-Game/assets/112628971/c4e3fe27-8318-45eb-995b-12cddd27f8b8" width="950">
